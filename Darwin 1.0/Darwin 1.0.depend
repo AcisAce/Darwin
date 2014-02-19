@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1392806702 source:g:\c++ programs\darwin\darwin 1.0\main.cpp
+	<iostream>
+
+1392805954 source:g:\c++ programs\darwin\darwin 1.0\logodisp.cpp
+	<iostream>
+
+1392806798 source:g:\c++ programs\darwin\darwin 1.0\howto.cpp
+	<iostream>
+
+1392807582 source:g:\c++ programs\darwin\darwin 1.0\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1392806806 source:g:\c++ programs\darwin\darwin 1.0\startprogram.cpp
+	<iostream>
+
